@@ -2208,6 +2208,9 @@ a#back-to-top {
 
 .footer.footer-bar {
   padding: 25px 0;
+  border-left: 0;
+  border-right: 0;
+  margin-left: -1px;
   background-color: rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
