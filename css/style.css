@@ -1554,6 +1554,11 @@ section#about .card {
   transition: all 0.5s ease;
 }
 
+a#back-to-top {
+  position: fixed;
+  border-radius: 100%;
+}
+
 .container-filter li a:hover,
 .container-filter li a.active {
   color: #007bff !important;
